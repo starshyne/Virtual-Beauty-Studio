@@ -1,0 +1,8 @@
+{
+  "name": "Virtual Beauty Studio",
+  "description": "Virtual beauty studio using AI to simulate professional makeup and hairstyles.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
